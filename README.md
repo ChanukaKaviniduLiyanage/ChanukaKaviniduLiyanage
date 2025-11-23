@@ -19,11 +19,11 @@
 
 ### 👨‍💻 About Me
 
-[cite_start]I am a **BSc (Hons) Data Science** graduate [cite: 107] based in Sri Lanka, passionate about bridging the gap between backend logic and frontend aesthetics. My unique strength lies in handling the full data lifecycle—from architecting streaming ETL pipelines with **Apache Spark & Kafka** to designing intuitive user interfaces with **Figma & React**.
+I am a **BSc (Hons) Data Science** graduate based in Sri Lanka, passionate about bridging the gap between backend logic and frontend aesthetics. My unique strength lies in handling the full data lifecycle—from architecting streaming ETL pipelines with **Apache Spark & Kafka** to designing intuitive user interfaces with **Figma & React**.
 
 * 🔭 I’m currently working on **End-to-End Data Engineering Projects** and **UI/UX Design**.
 * 👯 I’m looking to collaborate on **Big Data processing, Real-time analytics, and Product Design**.
-* [cite_start]♟️ Fun Fact: I am the Co-Founder of **"Checkmate Alley,"** Sri Lanka's first-ever street chess event! [cite: 33, 34]
+* ♟️ Fun Fact: I am the Co-Founder of **"Checkmate Alley,"** Sri Lanka's first-ever street chess event!
 
 ---
 
@@ -49,18 +49,18 @@
 
 #### 📊 [WikiPulse: Real-Time Analytics](https://github.com/ChanukaKaviniduLiyanage)
 > *Real-time streaming pipeline analyzing Wikipedia edits.*
-* [cite_start]**Tech:** Apache Kafka, PySpark, PostgreSQL, Superset, Docker[cite: 77, 80].
-* [cite_start]**Architecture:** Ingests live SSE streams, processes data with Spark Streaming to distinguish bot vs. human edits, and visualizes via Superset [cite: 77-79].
+* **Tech:** Apache Kafka, PySpark, PostgreSQL, Superset, Docker.
+* **Architecture:** Ingests live SSE streams, processes data with Spark Streaming to distinguish bot vs. human edits, and visualizes via Superset.
 
 #### 🛒 [E-commerce ELT Pipeline](https://github.com/ChanukaKaviniduLiyanage)
 > *Automated Batch ELT & Dimensional Modeling.*
-* [cite_start]**Tech:** Apache Airflow, Python (Faker/Pandas), PostgreSQL (Star Schema)[cite: 85, 88].
-* [cite_start]**Architecture:** Generates mock data, orchestrates transformation into `dim_customers` and `fct_orders`, and performs quality checks [cite: 84-86].
+* **Tech:** Apache Airflow, Python (Faker/Pandas), PostgreSQL (Star Schema).
+* **Architecture:** Generates mock data, orchestrates transformation into `dim_customers` and `fct_orders`, and performs quality checks.
 
 #### 🎫 [Automated Lottery Scraper](https://github.com/ChanukaKaviniduLiyanage)
 > *Serverless ETL for Daily Results.*
-* [cite_start]**Tech:** Python, Selenium, GitHub Actions, SQLite[cite: 94].
-* [cite_start]**Architecture:** Automates daily scraping of JS-rendered sites to acquire Sri Lankan lottery results using idempotent logic [cite: 91-93].
+* **Tech:** Python, Selenium, GitHub Actions, SQLite.
+* **Architecture:** Automates daily scraping of JS-rendered sites to acquire Sri Lankan lottery results using idempotent logic.
 
 ---
 
