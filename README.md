@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0061ff,60efff&height=320&section=header&text=Chanuka%20Liyanage&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20%7C%20UI%2FUX%20Designer&descAlignY=55&descAlign=62&fontColor=ffffff&descColor=ffffff&v=final_blue_gradient" alt="Chanuka Liyanage Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0072ff&height=320&section=header&text=Chanuka%20Liyanage&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20%7C%20UI%2FUX%20Designer&descAlignY=55&descAlign=62&fontColor=ffffff&descColor=ffffff&v=solid_blue_fix" alt="Chanuka Liyanage Banner" />
 </div>
 
 <div align="center">
@@ -20,11 +20,11 @@
 
 ### 👨‍💻 About Me
 
-[cite_start]I am a **BSc (Hons) Data Science** graduate based in Sri Lanka, passionate about bridging the gap between backend logic and frontend aesthetics[cite: 5, 85]. [cite_start]My unique strength lies in handling the full data lifecycle—from architecting streaming ETL pipelines with **Apache Spark & Kafka** to designing intuitive user interfaces with **Figma & React**[cite: 6, 87].
+I am a **BSc (Hons) Data Science** graduate based in Sri Lanka, passionate about bridging the gap between backend logic and frontend aesthetics. My unique strength lies in handling the full data lifecycle—from architecting streaming ETL pipelines with **Apache Spark & Kafka** to designing intuitive user interfaces with **Figma & React**.
 
-* [cite_start]🔭 I’m currently working on **End-to-End Data Engineering Projects** and **UI/UX Design**[cite: 5, 89].
-* [cite_start]👯 I’m looking to collaborate on **Big Data processing, Real-time analytics, and Product Design**[cite: 7].
-* [cite_start]♟️ Fun Fact: I am the Co-Founder of **"Checkmate Alley,"** Sri Lanka's first-ever street chess event! [cite: 113, 114]
+* 🔭 I’m currently working on **End-to-End Data Engineering Projects** and **UI/UX Design**.
+* 👯 I’m looking to collaborate on **Big Data processing, Real-time analytics, and Product Design**.
+* ♟️ Fun Fact: I am the Co-Founder of **"Checkmate Alley,"** Sri Lanka's first-ever street chess event!
 
 ---
 
@@ -51,17 +51,17 @@
 #### 📊 [WikiPulse: Real-Time Analytics](https://github.com/ChanukaKaviniduLiyanage/real-time-wikipedia-pipeline)
 > *Real-time streaming pipeline analyzing Wikipedia edits.*
 * **Tech:** Apache Kafka, PySpark, PostgreSQL, Superset, Docker.
-* [cite_start]**Architecture:** Ingests live SSE streams, processes data with Spark Streaming to distinguish bot vs. human edits, and visualizes via Superset[cite: 18, 20, 22].
+* **Architecture:** Ingests live SSE streams, processes data with Spark Streaming to distinguish bot vs. human edits, and visualizes via Superset.
 
 #### 🛒 [E-commerce ELT Pipeline](https://github.com/ChanukaKaviniduLiyanage/ecommerce-elt-pipeline)
 > *Automated Batch ELT & Dimensional Modeling.*
 * **Tech:** Apache Airflow, Python (Faker/Pandas), PostgreSQL (Star Schema).
-* [cite_start]**Architecture:** Generates mock data, orchestrates transformation into `dim_customers` and `fct_orders`, and performs quality checks[cite: 25, 29].
+* **Architecture:** Generates mock data, orchestrates transformation into `dim_customers` and `fct_orders`, and performs quality checks.
 
 #### 🎫 [Automated Lottery Scraper](https://github.com/ChanukaKaviniduLiyanage/lottery-pipeline)
 > *Serverless ETL for Daily Results.*
 * **Tech:** Python, Selenium, GitHub Actions, SQLite.
-* [cite_start]**Architecture:** Automates daily scraping of JS-rendered sites to acquire Sri Lankan lottery results using idempotent logic[cite: 33, 35, 37].
+* **Architecture:** Automates daily scraping of JS-rendered sites to acquire Sri Lankan lottery results using idempotent logic.
 
 ---
 
