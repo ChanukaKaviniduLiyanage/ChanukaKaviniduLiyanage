@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00c6ff,0072ff&height=320&section=header&text=Chanuka%20Liyanage&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20%7C%20UI%2FUX%20Designer&descAlignY=55&descAlign=62&fontColor=ffffff&descColor=ffffff" alt="Chanuka Liyanage Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0061ff,60efff&height=320&section=header&text=Chanuka%20Liyanage&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20%7C%20UI%2FUX%20Designer&descAlignY=55&descAlign=62&fontColor=ffffff&descColor=ffffff&v=final_blue_gradient" alt="Chanuka Liyanage Banner" />
 </div>
 
 <div align="center">
@@ -11,7 +11,8 @@
 <div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Chanuka%20Liyanage-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/chanukaliyanage)
-  [![Behance](https://img.shields.io/badge/Behance-Portfolio-1769ff?style=for-the-badge&logo=behance)](https://www.behance.net/) [![Gmail](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:chanukaliyanageofficial@gmail.com)
+  [![Behance](https://img.shields.io/badge/Behance-Portfolio-1769ff?style=for-the-badge&logo=behance)](https://www.behance.net/) 
+  [![Gmail](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:chanukaliyanageofficial@gmail.com)
 
 </div>
 
@@ -19,11 +20,11 @@
 
 ### 👨‍💻 About Me
 
-I am a **BSc (Hons) Data Science** graduate based in Sri Lanka, passionate about bridging the gap between backend logic and frontend aesthetics. My unique strength lies in handling the full data lifecycle—from architecting streaming ETL pipelines with **Apache Spark & Kafka** to designing intuitive user interfaces with **Figma & React**.
+[cite_start]I am a **BSc (Hons) Data Science** graduate based in Sri Lanka, passionate about bridging the gap between backend logic and frontend aesthetics[cite: 5, 85]. [cite_start]My unique strength lies in handling the full data lifecycle—from architecting streaming ETL pipelines with **Apache Spark & Kafka** to designing intuitive user interfaces with **Figma & React**[cite: 6, 87].
 
-* 🔭 I’m currently working on **End-to-End Data Engineering Projects** and **UI/UX Design**.
-* 👯 I’m looking to collaborate on **Big Data processing, Real-time analytics, and Product Design**.
-* ♟️ Fun Fact: I am the Co-Founder of **"Checkmate Alley,"** Sri Lanka's first-ever street chess event!
+* [cite_start]🔭 I’m currently working on **End-to-End Data Engineering Projects** and **UI/UX Design**[cite: 5, 89].
+* [cite_start]👯 I’m looking to collaborate on **Big Data processing, Real-time analytics, and Product Design**[cite: 7].
+* [cite_start]♟️ Fun Fact: I am the Co-Founder of **"Checkmate Alley,"** Sri Lanka's first-ever street chess event! [cite: 113, 114]
 
 ---
 
@@ -50,17 +51,17 @@ I am a **BSc (Hons) Data Science** graduate based in Sri Lanka, passionate about
 #### 📊 [WikiPulse: Real-Time Analytics](https://github.com/ChanukaKaviniduLiyanage/real-time-wikipedia-pipeline)
 > *Real-time streaming pipeline analyzing Wikipedia edits.*
 * **Tech:** Apache Kafka, PySpark, PostgreSQL, Superset, Docker.
-* **Architecture:** Ingests live SSE streams, processes data with Spark Streaming to distinguish bot vs. human edits, and visualizes via Superset.
+* [cite_start]**Architecture:** Ingests live SSE streams, processes data with Spark Streaming to distinguish bot vs. human edits, and visualizes via Superset[cite: 18, 20, 22].
 
 #### 🛒 [E-commerce ELT Pipeline](https://github.com/ChanukaKaviniduLiyanage/ecommerce-elt-pipeline)
 > *Automated Batch ELT & Dimensional Modeling.*
 * **Tech:** Apache Airflow, Python (Faker/Pandas), PostgreSQL (Star Schema).
-* **Architecture:** Generates mock data, orchestrates transformation into `dim_customers` and `fct_orders`, and performs quality checks.
+* [cite_start]**Architecture:** Generates mock data, orchestrates transformation into `dim_customers` and `fct_orders`, and performs quality checks[cite: 25, 29].
 
 #### 🎫 [Automated Lottery Scraper](https://github.com/ChanukaKaviniduLiyanage/lottery-pipeline)
 > *Serverless ETL for Daily Results.*
 * **Tech:** Python, Selenium, GitHub Actions, SQLite.
-* **Architecture:** Automates daily scraping of JS-rendered sites to acquire Sri Lankan lottery results using idempotent logic.
+* [cite_start]**Architecture:** Automates daily scraping of JS-rendered sites to acquire Sri Lankan lottery results using idempotent logic[cite: 33, 35, 37].
 
 ---
 
