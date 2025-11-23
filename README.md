@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=300&section=header&text=Chanuka%20Liyanage&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20%7C%20UI%2FUX%20Designer&descAlignY=55&descAlign=62" alt="Chanuka Liyanage Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=300&section=header&text=Chanuka%20Liyanage&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20%7C%20UI%2FUX%20Designer&descAlignY=55&descAlign=62" alt="Chanuka Liyanage Banner" />
 </div>
 
 <div align="center">
