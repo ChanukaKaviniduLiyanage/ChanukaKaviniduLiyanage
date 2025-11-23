@@ -1,84 +1,78 @@
 <div align="center">
-  <h1>👋 Hi, I'm Chanuka Kavinidu Liyanage</h1>
-  <p>A passionate developer from Sri Lanka 🇱🇰</p>
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=300&section=header&text=Chanuka%20Liyanage&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20%7C%20UI%2FUX%20Designer&descAlignY=55&descAlign=62" alt="Chanuka Liyanage Banner" />
 </div>
 
----
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=359AF2&center=true&vCenter=true&width=600&lines=I+Architect+Data+Pipelines;I+Design+User+Experiences;I+Build+Scalable+Solutions" alt="Typing SVG" />
+  </a>
+</div>
 
-## 🚀 About Me
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Chanuka%20Liyanage-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/chanukaliyanage)
+  [![Behance](https://img.shields.io/badge/Behance-Portfolio-1769ff?style=for-the-badge&logo=behance)](https://www.behance.net/) [![Gmail](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:chanukaliyanageofficial@gmail.com)
 
-- 🔭 I’m currently working on building **social / community tech projects**  
-- 🌱 I’m learning **Web Development**, **Node.js**, **TypeScript**, and **DevOps**  
-- 👯 I’m looking to collaborate on open source projects and community-driven tools  
-- 💬 Ask me about **JavaScript**, **Chess**, or **Street Chess Initiatives**  
-- 📫 How to reach me:
-  - [LinkedIn](https://www.linkedin.com/in/chanuka-liyanage)  
-  - [Twitter](https://twitter.com/your_twitter)  
-  - Email: **your-email@example.com**
+</div>
 
----
+<br />
 
-## 🛠️ Skills & Tech Stack
+### 👨‍💻 About Me
 
-| Domain | Technologies |
-|---|---|
-| **Frontend** | JavaScript, React, HTML, CSS |
-| **Backend** | Node.js, Express, Sequelize, MySQL |
-| **DevOps / Tools** | Git, Docker, GitHub Actions |
-| **Others** | Chess AI, Community Projects, Microservices |
+[cite_start]I am a **BSc (Hons) Data Science** graduate [cite: 107] based in Sri Lanka, passionate about bridging the gap between backend logic and frontend aesthetics. My unique strength lies in handling the full data lifecycle—from architecting streaming ETL pipelines with **Apache Spark & Kafka** to designing intuitive user interfaces with **Figma & React**.
 
----
-
-## 🌱 My GitHub Stats
-
-![Chanuka’s GitHub stats](https://github-readme-stats.vercel.app/api?username=ChanukaKaviniduLiyanage&show_icons=true&theme=radical)
+* 🔭 I’m currently working on **End-to-End Data Engineering Projects** and **UI/UX Design**.
+* 👯 I’m looking to collaborate on **Big Data processing, Real-time analytics, and Product Design**.
+* [cite_start]♟️ Fun Fact: I am the Co-Founder of **"Checkmate Alley,"** Sri Lanka's first-ever street chess event! [cite: 33, 34]
 
 ---
 
-## 📊 Programming Activity
+### 🛠️ Technical Arsenal
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChanukaKaviniduLiyanage&layout=compact&theme=radical)
+#### 🏗️ Data Engineering & Backend
+| Domain | Stack |
+| :--- | :--- |
+| **Orchestration** | ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=Apache%20Airflow&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| **Streaming & Processing** | ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Databases & Storage** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
+| **ETL & Scraping** | ![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) |
 
----
-
-## 🔭 Projects I’m Proud Of
-
-- **Checkmate Alley** — A street chess community web app  
-- **Tournament Manager** — A system to create & manage chess tournaments  
-- **Chess Bot** — AI-based bot that can play chess/give puzzles  
-
-(Check out [my pinned repos](https://github.com/ChanukaKaviniduLiyanage?tab=repositories) for more.)
-
----
-
-## 📈 GitHub Activity
-
-> 💡 *This section can be automated using GitHub Actions to show your most recent commits, contributions, or a “typing” animation.*
-
-For example, you could use a [self-updating README action](https://github.com/abhiramr/github-profile-readme-generator) or [profile card generators](https://github.com/Leorev01/pokemon-profile-card) to make this live. :contentReference[oaicite:0]{index=0}
+#### 🎨 UI/UX & Frontend
+| Domain | Stack |
+| :--- | :--- |
+| **Development** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Design Tools** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Adobe Ps](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=white) ![Adobe Ai](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat-square&logo=Adobe%20Illustrator&logoColor=white) |
 
 ---
 
-## 🎯 Fun Facts
+### 🚀 Featured Projects
 
-- I started **Sri Lanka’s first street chess initiative** — *Checkmate Alley*  
-- I love solving chess problems and designing chess puzzles  
-- When not coding or playing chess, you’ll often find me brainstorming ways to bring community & technology together
+#### 📊 [WikiPulse: Real-Time Analytics](https://github.com/ChanukaKaviniduLiyanage)
+> *Real-time streaming pipeline analyzing Wikipedia edits.*
+* [cite_start]**Tech:** Apache Kafka, PySpark, PostgreSQL, Superset, Docker[cite: 77, 80].
+* [cite_start]**Architecture:** Ingests live SSE streams, processes data with Spark Streaming to distinguish bot vs. human edits, and visualizes via Superset [cite: 77-79].
+
+#### 🛒 [E-commerce ELT Pipeline](https://github.com/ChanukaKaviniduLiyanage)
+> *Automated Batch ELT & Dimensional Modeling.*
+* [cite_start]**Tech:** Apache Airflow, Python (Faker/Pandas), PostgreSQL (Star Schema)[cite: 85, 88].
+* [cite_start]**Architecture:** Generates mock data, orchestrates transformation into `dim_customers` and `fct_orders`, and performs quality checks [cite: 84-86].
+
+#### 🎫 [Automated Lottery Scraper](https://github.com/ChanukaKaviniduLiyanage)
+> *Serverless ETL for Daily Results.*
+* [cite_start]**Tech:** Python, Selenium, GitHub Actions, SQLite[cite: 94].
+* [cite_start]**Architecture:** Automates daily scraping of JS-rendered sites to acquire Sri Lankan lottery results using idempotent logic [cite: 91-93].
 
 ---
 
-## 📫 Let’s Connect
+### 📈 GitHub Statistics
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chanuka-liyanage)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your_twitter)  
-[![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ChanukaKaviniduLiyanage&show_icons=true&theme=radical&hide_border=true" alt="Chanuka's Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChanukaKaviniduLiyanage&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180"/>
+</div>
 
----
+<br />
 
-> “Chess is war over the board. The object is to crush the opponent’s mind.” — **Bobby Fischer**
-
----
-
-*Made with 💜 by me*
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ChanukaKaviniduLiyanage&color=blue&style=flat-square&label=Profile+Views" alt="Visitor Count" />
+</div>
