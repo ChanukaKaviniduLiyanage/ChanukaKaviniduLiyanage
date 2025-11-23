@@ -19,7 +19,7 @@
 
 ### 👨‍💻 About Me
 
-I am a **BSc (Hons) Data Science** graduate [cite: 107] based in Sri Lanka, passionate about bridging the gap between backend logic and frontend aesthetics. My unique strength lies in handling the full data lifecycle—from architecting streaming ETL pipelines with **Apache Spark & Kafka** to designing intuitive user interfaces with **Figma & React**.
+[cite_start]I am a **BSc (Hons) Data Science** graduate [cite: 107] based in Sri Lanka, passionate about bridging the gap between backend logic and frontend aesthetics. My unique strength lies in handling the full data lifecycle—from architecting streaming ETL pipelines with **Apache Spark & Kafka** to designing intuitive user interfaces with **Figma & React**.
 
 * 🔭 I’m currently working on **End-to-End Data Engineering Projects** and **UI/UX Design**.
 * 👯 I’m looking to collaborate on **Big Data processing, Real-time analytics, and Product Design**.
