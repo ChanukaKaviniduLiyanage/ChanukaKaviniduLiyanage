@@ -47,17 +47,17 @@ I am a **BSc (Hons) Data Science** graduate based in Sri Lanka, passionate about
 
 ### 🚀 Featured Projects
 
-#### 📊 [WikiPulse: Real-Time Analytics]([https://github.com/ChanukaKaviniduLiyanage](https://github.com/ChanukaKaviniduLiyanage/real-time-wikipedia-pipeline))
+#### 📊 [WikiPulse: Real-Time Analytics](https://github.com/ChanukaKaviniduLiyanage/real-time-wikipedia-pipeline)
 > *Real-time streaming pipeline analyzing Wikipedia edits.*
 * **Tech:** Apache Kafka, PySpark, PostgreSQL, Superset, Docker.
 * **Architecture:** Ingests live SSE streams, processes data with Spark Streaming to distinguish bot vs. human edits, and visualizes via Superset.
 
-#### 🛒 [E-commerce ELT Pipeline](https://github.com/ChanukaKaviniduLiyanage)
+#### 🛒 [E-commerce ELT Pipeline](https://github.com/ChanukaKaviniduLiyanage/ecommerce-elt-pipeline)
 > *Automated Batch ELT & Dimensional Modeling.*
 * **Tech:** Apache Airflow, Python (Faker/Pandas), PostgreSQL (Star Schema).
 * **Architecture:** Generates mock data, orchestrates transformation into `dim_customers` and `fct_orders`, and performs quality checks.
 
-#### 🎫 [Automated Lottery Scraper]([https://github.com/ChanukaKaviniduLiyanage](https://github.com/ChanukaKaviniduLiyanage/lottery-pipeline))
+#### 🎫 [Automated Lottery Scraper](https://github.com/ChanukaKaviniduLiyanage/lottery-pipeline)
 > *Serverless ETL for Daily Results.*
 * **Tech:** Python, Selenium, GitHub Actions, SQLite.
 * **Architecture:** Automates daily scraping of JS-rendered sites to acquire Sri Lankan lottery results using idempotent logic.
