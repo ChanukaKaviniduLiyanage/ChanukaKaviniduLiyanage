@@ -10,7 +10,7 @@
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Chanuka%20Liyanage-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/chanukaliyanage)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Chanuka%20Liyanage-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/chanuka-kavinidu-liyanage)
   [![Behance](https://img.shields.io/badge/Behance-Portfolio-1769ff?style=for-the-badge&logo=behance)](https://www.behance.net/) 
   [![Gmail](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:chanukaliyanageofficial@gmail.com)
 
